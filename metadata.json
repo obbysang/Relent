@@ -1,0 +1,5 @@
+{
+  "name": "Donezo - Smart Task Board & Reminder System",
+  "description": "A high-performance task management dashboard with integrated AI-powered task parsing and simulated Telegram reminders. Features a sleek UI inspired by modern design trends, real-time analytics, and automated reminder tracking.",
+  "requestFramePermissions": []
+}
